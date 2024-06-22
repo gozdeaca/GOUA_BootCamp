@@ -161,37 +161,37 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: MainMenuMusic
     clip: {fileID: 8300000, guid: e9692a77a41bf374ea334dbeb6f79ef9, type: 3}
-    volume: 0.5
+    volume: 0.25
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: PauseMenuMusic
     clip: {fileID: 8300000, guid: 9be986a238a710b44afc1fc7d34c43f5, type: 3}
-    volume: 1
+    volume: 0.25
     pitch: 0.25
     loop: 1
     source: {fileID: 0}
   - name: SpringMusic
     clip: {fileID: 8300000, guid: 5c28e76f9afdd3747919660ab8d7680a, type: 3}
-    volume: 1
+    volume: 0.3
     pitch: 0.25
     loop: 1
     source: {fileID: 0}
   - name: SummerMusic
     clip: {fileID: 8300000, guid: f5e1d6d72850de54c855148af766d6de, type: 3}
-    volume: 1
+    volume: 0.3
     pitch: 0.25
     loop: 1
     source: {fileID: 0}
   - name: AutumnMusic
     clip: {fileID: 8300000, guid: 86a98ed4c991ae4419751b7e5952234d, type: 3}
-    volume: 1
+    volume: 0.3
     pitch: 0.25
     loop: 1
     source: {fileID: 0}
   - name: WinterMusic
     clip: {fileID: 8300000, guid: 6f10937051765fa41b3349a9bbd29b74, type: 3}
-    volume: 1
+    volume: 0.3
     pitch: 0.25
     loop: 1
     source: {fileID: 0}
